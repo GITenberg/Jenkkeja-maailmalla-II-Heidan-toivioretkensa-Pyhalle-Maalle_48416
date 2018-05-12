@@ -1,4 +1,8 @@
 _repo: Jenkkeja-maailmalla-II-Heidan-toivioretkensa-Pyhalle-Maalle_48416
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Twain, Mark
@@ -11,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/53
     wikipedia: http://en.wikipedia.org/wiki/Mark_Twain
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48416#Jenkkeja-maailmalla-II-Heidan-toivioretkensa-Pyhalle-Maalle
 gutenberg_issued: '2015-03-05'
 gutenberg_type: Text
 identifiers:
